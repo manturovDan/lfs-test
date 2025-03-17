@@ -1,1 +1,1 @@
-bigFiles/IMG_9450.MOV filter=lfs diff=lfs merge=lfs -text
+bigFiles/** filter=lfs diff=lfs merge=lfs -text
